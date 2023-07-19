@@ -146,9 +146,7 @@ const CurrencyConverter = () => {
           ))}
         </div>
       )}
-      {/* <div className="weather-link">
-        <Link to="/weather">Weather</Link>
-      </div> */}
+      
     </div>
   );
 };
